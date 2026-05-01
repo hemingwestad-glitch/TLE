@@ -1,0 +1,26 @@
+Isar Aerospace SE
+Spectrum F02 - Preliminary Spacecraft Deployment State Vector File
+Generated: 23-Mar-2026
+Spacecraft: FramSat-1.5
+=================================================
+This file provides the instantaneous (osculating) orbital state at spacecraft
+deployment. Cartesian vectors are given in the inertial J2000/EME2000 frame and
+in the Earth-fixed ITRF/WGS-84 frame, with Earth-relative velocity in ECEF.
+
+UTC time at liftoff:		2026-03-25 20:06:00.000Z
+UTC time at deployment:		2026-03-25 21:15:56.858Z
+Mission elapsed time (s): 	4196.858 s
+
+J2000 (x,y,z) Position (km): 	[-5517.566  1402.722  -3871.895]
+J2000 (x,y,z) Velocity (km/s):	[-3.798  2.196  6.217]
+
+ECEF (x,y,z) Position (km): 	[5203.518  2285.883  -3885.963]
+ECEF (x,y,z) Velocity (km/s):	[4.525  0.238  6.208]
+
+Semi-major axis (km): 		6886.0705
+Eccentricity (-): 		0.0002
+Inclination (deg): 		97.4470
+RAAN (deg): 			160.6358
+Argument of perigee (deg): 	325.4803
+True anomaly (deg):		359.968
+Period (s): 			5686.803

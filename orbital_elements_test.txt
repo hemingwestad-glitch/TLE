@@ -1,0 +1,9 @@
+Spacecraft: ISS-TEST
+UTC time at deployment: 2025-04-10T12:00:00Z
+Semi-major axis (km): 6778.137
+Eccentricity (-): 0.0001
+Inclination (deg): 51.6400
+RAAN (deg): 125.0000
+Argument of perigee (deg): 90.0000
+True anomaly (deg): 0.0000
+Period (s): 5558.0

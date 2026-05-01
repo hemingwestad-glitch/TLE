@@ -1,0 +1,21 @@
+Isar Aerospace SE
+Spectrum F02 - Preliminary Spacecraft Deployment State Vector File
+Generated: 19-Jan-2026
+UTC time at liftoff: 21-Jan-2026 20:06:00
+=================================================
+Spacecraft: FramSat-1.5
+Frame: J2000 (inertial)
+Epoch (UTC): 2026-01-21T21:15:49.493Z
+Orbital elements are for this epoch in the J2000 frame.
+Input state at epoch (km, km/s):
+r = [-1352.050963350  5566.443463179  -3837.458410878]
+v = [0.181938476  4.338646595  6.238836827]
+Classical Orbital Elements (COE):
+a     (km) :  6891.187837944
+e     (-)  : 0.000536321993
+i     (deg): 97.541812948
+RAAN  (deg): 98.563937917
+argPeri ω (deg): 145.834986078
+true anomaly ν (deg): 180.010765928
+p     (km) : 6891.182525151
+T     (s)  : 5693.143260650
