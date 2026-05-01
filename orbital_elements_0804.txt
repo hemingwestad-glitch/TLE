@@ -1,5 +1,4 @@
-Isar Aerospace SE
-Spectrum F02 - Preliminary Spacecraft Deployment State Vector File
+
 Generated: 08-Apr-2026
 Spacecraft: FramSat-1.5
 =================================================
