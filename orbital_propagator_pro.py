@@ -4,9 +4,6 @@ Created on Sat Apr 11 00:07:16 2026
 
 @author: hemin
 """
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 ═══════════════════════════════════════════════════════════════════════════════
     PROFESSIONAL ORBITAL PROPAGATOR v2.0
